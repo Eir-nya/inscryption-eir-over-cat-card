@@ -1,0 +1,7 @@
+{
+    "name": "Cat",
+    "fieldsToEdit": ["texture", "emissionTexture", "pixelTexture"],
+    "texture": "eir.png",
+    "emissionTexture": "eir_e.png",
+    "pixelTexture": "eir_p.png"
+}

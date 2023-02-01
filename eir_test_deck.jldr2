@@ -1,0 +1,9 @@
+{
+    "decks": [
+        {
+            "name": "Eir Test",
+            "iconTexture": "DeckEirTest.png",
+            "cards": [ "Cat", "Ouroboros", "Cockroach" ]
+        }
+    ]
+}

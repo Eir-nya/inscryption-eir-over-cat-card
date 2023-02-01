@@ -1,0 +1,7 @@
+{
+    "name": "CatUndead",
+    "fieldsToEdit": ["texture", "emissionTexture", "pixelTexture"],
+    "texture": "eir2.png",
+    "emissionTexture": "eir2_e.png",
+    "pixelTexture": "eir2_p.png"
+}
