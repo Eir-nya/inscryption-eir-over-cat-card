@@ -1,6 +1,6 @@
 {
     "name": "EirCard",
-    "version_number": "0.0.1",
+    "version_number": "0.0.2",
     "description": "Replaces Cat and Undead Cat cards with my OC.",
     "dependencies": [
       "BepInEx-BepInExPack_Inscryption-5.4.1901",

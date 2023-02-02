@@ -3,7 +3,7 @@
         {
             "name": "Eir Test",
             "iconTexture": "DeckEirTest.png",
-            "cards": [ "Cat", "Ouroboros", "Cockroach" ]
+            "cards": [ "Cat", "CatUndead" ]
         }
     ]
 }
