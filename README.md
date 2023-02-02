@@ -1,5 +1,7 @@
 # Inscryption - Eir over Cat
 
+![](icon.png)
+
 Replaces Cat and Undead Cat with my OC. This change is purely cosmetic.
 
 Also adds a custom starter deck for Kaycee's Mod to more easily see both forms in game.
