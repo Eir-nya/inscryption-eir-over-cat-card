@@ -14,14 +14,14 @@ Also adds a custom starter deck for Kaycee's Mod to more easily see both forms i
 
 ### Act I/Kaycee's Mod
 
-![](preview-1.png)
-![](preview-2.png)
+![](previews/preview-1.png)
+![](previews/preview-2.png)
 
 ### Act II
 
-![](preview-3.png)
-![](preview-4.png)
+![](previews/preview-3.png)
+![](previews/preview-4.png)
 
 ### Custom starter pack (for testing purposes)
 
-![](preview-5.png)
+![](previews/preview-5.png)
